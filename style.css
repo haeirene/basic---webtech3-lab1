@@ -14,3 +14,10 @@ h1 {
 p {
     padding: 5% 5%;
 }
+footer {
+    display: block;
+    background-color: #F5F3F3;
+    color: #281755;
+    height: 5vh;
+    padding: 5% 5%;
+}
