@@ -12,11 +12,14 @@ nav {
 h1 {
     padding: 5% 5%;
 }
+h2 {
+    padding: 5% 5%;
+}
 p {
     padding: 5% 5%;
 }
-img {
-    overflow-x: hidden;
+div {
+    padding: 5% 5%;
 }
 footer {
     display: block;
