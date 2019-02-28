@@ -55,4 +55,8 @@ footer {
     nav {
         padding: 50px;
     }
+    .robot{
+        display: block;
+        padding-left: 100px;
+    }
 }
