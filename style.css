@@ -59,4 +59,12 @@ footer {
         display: block;
         padding-left: 100px;
     }
+    .joke img {
+        width: 200px;
+        height: 200px;
+    }
+    .question img{
+        width: 200px;
+        height: 200px;
+    }
 }
