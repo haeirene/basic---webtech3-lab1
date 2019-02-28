@@ -29,6 +29,12 @@ footer {
     h1, h2, p, div {
         padding: 100px;
     }
+    h1 {
+        padding-bottom: 0px;
+    }
+    p {
+        padding-top: 50px;
+    }
     footer {
         padding-left: 100px;
         padding-right: 100px;
