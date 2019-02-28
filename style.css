@@ -35,6 +35,9 @@ footer {
     p {
         padding-top: 50px;
     }
+    li {
+        list-style-type: none;
+    }
     footer {
         padding-left: 100px;
         padding-right: 100px;
