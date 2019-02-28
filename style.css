@@ -29,4 +29,8 @@ footer {
     h1, h2, p, div {
         padding: 100px;
     }
+    footer {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
 }
