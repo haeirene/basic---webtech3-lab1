@@ -38,6 +38,14 @@ footer {
     li {
         list-style-type: none;
     }
+    .joke img {
+        width: 50%;
+        height: 50%;
+    }
+    .question img{
+        width: 50%;
+        height: 50%;
+    }
     footer {
         padding-left: 100px;
         padding-right: 100px;
